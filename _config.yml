@@ -1,0 +1,28 @@
+name: Mosers in Ministry
+favicon: null
+layout_spectrum: 0.03973107156343758
+typography_spectrum: 0.3838904518634081
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.37842786591500044
+  lightness: 0.9815859803929925
+  saturation: 0.03913255385123193
+  rhythmicContrast: 0.6673983931541443
+purpose: []
